@@ -14,3 +14,9 @@
 * `mybatis` - MyBatis 사용 예시
     * count 쿼리, list 쿼리 예시를 제공한다.
     * Mapper 이외에 Repository 를 두어 `jpa` 와 같은 인터페이스를 갖는다. (`CrudRepository`)
+
+### `jpa` 처리 흐름
+![Pagination_JPA](./doc-content/Pagination_JPA.svg)
+
+### `mybatis` 처리 흐름
+![Pagination_MyBatis](./doc-content/Pagination_MyBatis.svg)
